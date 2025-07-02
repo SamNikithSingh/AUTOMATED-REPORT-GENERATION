@@ -29,7 +29,6 @@ This tool is ideal for students, data analysts, and professionals who want a qui
 * **matplotlib** & **seaborn**: For plotting a correlation heatmap that visually represents relationships between numeric variables.
 * **fpdf2**: To dynamically build and export the analysis into a clean and readable PDF document.
 
-
  *Key Features*
 
 * **Interactive File Upload**: Allows users to upload any CSV file directly in the Colab interface.
@@ -41,8 +40,6 @@ This tool is ideal for students, data analysts, and professionals who want a qui
   * Page 2: A full descriptive statistics table with rows and columns.
   * Page 3: Embedded correlation heatmap image.
 * **One-click PDF download**: After analysis, the PDF is saved and automatically downloaded.
-
-
 
  *Workflow*
 
@@ -56,8 +53,6 @@ This tool is ideal for students, data analysts, and professionals who want a qui
    * The third page contains the visual heatmap.
 5. The final report is automatically downloaded as `data_analysis_report.pdf`.
 
-
-
  *How to Use*
 
 1. Open the notebook in Google Colab.
@@ -66,8 +61,6 @@ This tool is ideal for students, data analysts, and professionals who want a qui
 4. Wait for the report to generate and download automatically.
 5. You’ll find a complete PDF containing all the insights from your data.
 
-
-
  *Use Cases*
 
 * Quick exploration of any dataset
@@ -75,8 +68,6 @@ This tool is ideal for students, data analysts, and professionals who want a qui
 * Survey result reporting
 * Business reports and internal presentations
 * Automated data profiling tools
-
-
 
  *Customization Ideas*
 
@@ -88,5 +79,7 @@ This tool is ideal for students, data analysts, and professionals who want a qui
 
 **OUPUT**
 
-
+![Image](https://github.com/user-attachments/assets/e085a2eb-c8de-4790-b2d8-f2ce1c40906d)
+![Image](https://github.com/user-attachments/assets/752c1f9f-f69b-4b3c-bdd8-dce0871f7cc9)
+![Image](https://github.com/user-attachments/assets/e20c68b3-78fb-4a38-84fd-aec254b73384)
 
